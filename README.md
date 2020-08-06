@@ -1,6 +1,6 @@
 # Overview
 
-**Title:** stonecutters 
+**Title:** stonecutters  
 **Category:** Crypto  
 **Flag:** libctf{malleability_will_break_your_crypto}  
 **Difficulty:** easy to moderate  
